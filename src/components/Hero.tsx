@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, Code2, Terminal, Cpu, Code2Icon } from 'lucide-react';
+import { ArrowRight, Code2, Terminal, Cpu } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Hero = () => {
@@ -119,5 +119,6 @@ const Hero = () => {
     </div>
   );
 };
+
 
 export default Hero;
